@@ -40,5 +40,5 @@
 - 框架: 比较了解 vue 全家桶、element-ui、mint-ui
 - 了解git、webpack等基本用法
 ---
-##### [pdf版](https://github.com/xiannvjiadexiaogouzi/cv-page/blob/master/简历-刘先生.pdf)
+##### [pdf版](https://github.com/xiannvjiadexiaogouzi/cv-page/blob/master/resume%20-%20%E5%88%98%E5%85%88%E7%94%9F.pdf)
 ##### [md](https://github.com/xiannvjiadexiaogouzi/cv-page)
