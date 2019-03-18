@@ -9,7 +9,7 @@
 ### 联系方式
 - 手机：
 - Email：zhuyan7051@163.com
-- QQ/微信号：3270067887
+- QQ：3270067887
 ---
 ### 工作经历
 - 离职自学（2018.08 ~ 2019.03）
@@ -39,3 +39,6 @@
 - javascript: 熟悉 ES5，了解 ES6，日常使用 ES6
 - 框架: 比较了解 vue 全家桶、element-ui、mint-ui
 - 了解git、webpack等基本用法
+---
+##### [pdf版](https://github.com/xiannvjiadexiaogouzi/cv-page/blob/master/%E7%AE%80%E5%8E%86.pdf)
+##### [md](https://github.com/xiannvjiadexiaogouzi/cv-page)
